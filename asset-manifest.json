@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bennyapp/static/css/main.5aa2e881.chunk.css",
+    "main.js": "/bennyapp/static/js/main.76561f45.chunk.js",
+    "main.js.map": "/bennyapp/static/js/main.76561f45.chunk.js.map",
+    "runtime-main.js": "/bennyapp/static/js/runtime-main.dd0552d4.js",
+    "runtime-main.js.map": "/bennyapp/static/js/runtime-main.dd0552d4.js.map",
+    "static/js/2.52ad32b4.chunk.js": "/bennyapp/static/js/2.52ad32b4.chunk.js",
+    "static/js/2.52ad32b4.chunk.js.map": "/bennyapp/static/js/2.52ad32b4.chunk.js.map",
+    "index.html": "/bennyapp/index.html",
+    "precache-manifest.b2750d77f78bd8070318a0d469df6bb7.js": "/bennyapp/precache-manifest.b2750d77f78bd8070318a0d469df6bb7.js",
+    "service-worker.js": "/bennyapp/service-worker.js",
+    "static/css/main.5aa2e881.chunk.css.map": "/bennyapp/static/css/main.5aa2e881.chunk.css.map",
+    "static/js/2.52ad32b4.chunk.js.LICENSE.txt": "/bennyapp/static/js/2.52ad32b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd0552d4.js",
+    "static/js/2.52ad32b4.chunk.js",
+    "static/css/main.5aa2e881.chunk.css",
+    "static/js/main.76561f45.chunk.js"
+  ]
+}
